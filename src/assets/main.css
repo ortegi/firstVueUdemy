@@ -1,0 +1,8 @@
+@import './base.css';
+
+body{
+  background-color:#5C6672;
+  color: #fff;
+  padding: 30px;
+}
+
